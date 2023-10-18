@@ -5,7 +5,7 @@
 * For flower classification, we used supervised learning approach, specifically Convolutional Neural Network (CNN). We trained the model using AlexNet and ResNet50, then compare the model performance for evaluation.
 * For flower recommendation, we used unsupervised learning approach (clustering). We trained the KNN model and DBSCAN model, then compare the model performance for evaluation.
 * There is a notebook file and a python file for each task.
-* Further details are available in the project report.
+* Further details on approaches, evaluations, screenshots, etc. are available in the project report.
 
 ## How To Use
 ### Task 1: Flower Classification
