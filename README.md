@@ -1,6 +1,5 @@
 # Details
-Dataset URL: https://drive.google.com/file/d/1eMmfmV44u6TXF1i6kX2PNhuwWYeJ-q5B/view?usp=share_link
-Read more details in Project Report
+Read more details in Project Report. Dataset URL: https://drive.google.com/file/d/1eMmfmV44u6TXF1i6kX2PNhuwWYeJ-q5B/view?usp=share_link
 
 # How To Use
 Task 1: Flower Classification
