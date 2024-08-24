@@ -21,7 +21,7 @@
 4. Wait for the program to process the image, and recommend 10 images from the dataset.
 
 ## Future Plan
-The flower classification performed well given its bad quality dataset. However, the flower recommendation system is relying on the flower classification model to recommend. In the future, another algorithm such as cosine similarities can be used to check the most similar images, and features extraction can be done using a different model, so that flower recommendation system can be enhanced.
+The flower classification performed well given its bad quality dataset. However, the flower recommendation system is relying on the flower classification model to recommend. In the future, another algorithm such as cosine similarities can be used to check the most similar images, and features extraction can be done using a different model, so that flower recommendation system can be enhanced. Additionally, using similarity distance calculation such as cosine similarity can result in better similarity ranking.
 
 ## References
 [1] Y. Liu, F. Tang, D. Zhou, Y. Meng, and W. Dong, ‘Flower classification via convolutional
